@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "name": "Bemnet Aduganw",
+      "email": "bemat1616@gmail.com",
+      "password": "ABcd@123",
+      "id": 1
+    },
+    {
+      "name": "New User",
+      "email": "newuser@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "lkj",
+      "email": "bemat16lkj16@gmail.com",
+      "password": "lkjlkj",
+      "id": 3
+    },
+    {
+      "name": "lkj",
+      "email": "bematkljlkj1616@gmail.com",
+      "password": "lkjklsj",
+      "id": 4
+    },
+    {
+      "name": "lkj",
+      "email": "bemnetadugnaw@gmail.com",
+      "password": "ljkklj",
+      "id": 5
+    },
+    {
+      "name": "lkj",
+      "email": "jlkj@email.com",
+      "password": "lkjdf",
+      "id": 6
+    },
+    {
+      "name": "lkjf",
+      "email": "slkjf@email.com",
+      "password": "lkjfsd",
+      "id": 7
+    },
+    {
+      "name": "ksf",
+      "email": "lsjkf@lksjf.co",
+      "password": "lsjkdf",
+      "id": 8
+    },
+    {
+      "name": "lkj",
+      "email": "lkjf@lkjsdf.co",
+      "password": "lskjfsd",
+      "id": 9
+    },
+    {
+      "name": "lkjf",
+      "email": "lskjfsf@ljsf.com",
+      "password": "lkjdfsdf",
+      "id": 10
+    },
+    {
+      "name": "jlkjfs",
+      "email": "lkj@jksd.com",
+      "password": "lskjfs",
+      "id": 11
+    },
+    {
+      "name": "lkj",
+      "email": "kjsdf@lksjf.com",
+      "password": "lskjdfsdlkj",
+      "id": 12
+    },
+    {
+      "name": "lkjf",
+      "email": "lkjfsd@ljkdf.com",
+      "password": "lskjfs",
+      "id": 13
+    },
+    {
+      "name": "lkj",
+      "email": "bemkljat1616@gmail.com",
+      "password": "lkjdsfd",
+      "id": 14
+    },
+    {
+      "name": "finished",
+      "email": "finished@bem.adu",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "name": "slkdfj",
+      "email": "lkjdf@gmail.com",
+      "password": "lskjdfd",
+      "id": 16
+    },
+    {
+      "name": "dfgdfg",
+      "email": "dfdfg@fg.jhj",
+      "password": "dfdfd",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+      "title": "Shiro Feses",
+      "content": "Ethiopian best food",
+      "price": 49.99,
+      "id": 1
+    },
+    {
+      "title": "Kitfo",
+      "content": "Delicious food (mostly Gurage)",
+      "price": 249.99,
+      "id": 2
+    },
+    {
+      "title": "Aynet",
+      "content": "Has more items than other",
+      "price": 99.99,
+      "id": 3
+    },
+    {
+      "title": "Enkulal Firfr",
+      "content": "Cooked from eggs",
+      "price": 134.99,
+      "id": 4
+    },
+    {
+      "title": "Tibs Firfr",
+      "content": "Made from meet and injera",
+      "price": 149.99,
+      "id": 5
+    },
+    {
+      "title": "Kikl",
+      "content": "Has a soop like liquid",
+      "price": 229.99,
+      "id": 6
+    },
+    {
+      "title": "Misr",
+      "content": "Mist wet",
+      "price": 69.99,
+      "id": 7
+    }
+  ]
+}
